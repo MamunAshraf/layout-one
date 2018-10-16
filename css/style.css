@@ -1,0 +1,55 @@
+body{}
+.container{
+    width: 1000px;
+    height: 600px;
+    background: #e3dcdc;
+    margin: 0 auto;
+}
+
+.orange{
+    background: #e6990d;
+}
+.orange_n{
+    background: #a06a08;
+}
+.orange_l{
+    background: #ae8e55;
+}
+
+.one{
+    /* background: #ec9c0b; */
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    padding: 1px;
+    box-sizing: border-box;
+    /* border: 1px; */
+    /* border: 1px solid; */
+    border: 1px solid #fff;
+}
+.two{
+    width: 50%;
+    height: 200px;
+    float: left;
+    padding: 1px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+.three{
+    width: 66.66%;
+    height: 200px;
+    float: left;
+    padding: 1px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+.four{
+    width: 16.67%;
+    height: 200px;
+    float: left;
+    padding: 1px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+
+
